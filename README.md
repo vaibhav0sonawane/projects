@@ -1,1 +1,1 @@
-# projects
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+My+Projects!;Building+Cool+Things+with+Code+💻;JavaScript+%7C+Web+Dev+%7C+Creativity🔥" /> </p>
